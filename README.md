@@ -1,8 +1,6 @@
-# mlen_udacity
-My projects required for the Machine Learning Engineer Nanodegree from Udacity.
+# Machine Learning Nanodegree
 
-
-Projects – Machine Learning Nanodegree
+Projects required for the Machine Learning Engineer Nanodegree from Udacity. The program teaches you how to build machine learning models and apply them to data sets in fields like finance, healthcare, education, and more. This is an one term program spread over 6 months. 
 
 
 Introductory Project: Exploring the Titanic Survival Data
