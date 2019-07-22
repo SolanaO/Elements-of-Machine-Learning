@@ -10,7 +10,7 @@ _Project 0_: Use Pandas and Numpy are used to analyze a real dataset of passenge
 
 _Project 1_: Use Scikit-Learn and regression to analyze a real dataset of housing prices in Boston. Build and optimize a model to predict the price of houses, based on their features.
 
-I evaluate the performance and predictive power of a model that has been trained and tested on data collected from homes in suburbs of Boston, Massachusetts and available on (http://archive.ics.uci.edu/ml/index.php)[UCI Machine Learning Repository]. A model trained on this data that is seen as a good fit could then be used to make certain predictions about the monetary value of a home. This model would prove to be invaluable for someone like a real estate agent who could make use of such information on a daily basis.
+I evaluate the performance and predictive power of a model that has been trained and tested on data collected from homes in suburbs of Boston, Massachusetts and available on [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php). A model trained on this data that is seen as a good fit could then be used to make certain predictions about the monetary value of a home. This model would prove to be invaluable for someone like a real estate agent who could make use of such information on a daily basis.
 
 _The model uses a Decision Tree Algorithm. The work is done on a template Jupyter Notebook provided by Udacity. The code is written in Python 3 using NumPy and Pandas._
 
@@ -20,7 +20,7 @@ _The model uses a Decision Tree Algorithm. The work is done on a template Jupyte
 
 _Project 2_: Build a classification model to identify the best potential donors for a charity. Use several classification algorithms and optimize them for quality.
 
-I employ three supervised algorithms (Support Vector Machines, K-Nearest Neighbors and Random Forest) to accurately model individuals' income using data collected from the 1994 U.S. Census, and available on (http://archive.ics.uci.edu/ml/index.php)[UCI Machine Learning Repository]. From preliminary results, the best candidate algorithm is Random Forest. I further optimize this algorithm to best model the data.
+I employ three supervised algorithms (Support Vector Machines, K-Nearest Neighbors and Random Forest) to accurately model individuals' income using data collected from the 1994 U.S. Census, and available on [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php). From preliminary results, the best candidate algorithm is Random Forest. I further optimize this algorithm to best model the data.
 
 [Link: Project2](http://htmlpreview.github.io/?https://github.com/SolanaO/mlen_udacity/blob/master/mlen.P2.Finding_Donors.html)
 
