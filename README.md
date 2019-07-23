@@ -26,9 +26,13 @@ I employ three supervised algorithms (Support Vector Machines, K-Nearest Neighbo
 
 ## Unsupervised Learning: Creating Customer Segments
 
-Study a real dataset of customers for a company, apply several unsupervised learning techniques in order to extract valuable information from this data.
+_Project 3_: Study a real dataset of customers for a company, apply several unsupervised learning techniques in order to extract valuable information from this data.
 
-[Link: Project1](http://htmlpreview.github.io/?https://github.com/SolanaO/mlen_udacity/blob/master/mlen.P1.bostonHousing.html)
+In this project, I analyze a dataset (available on  [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)), containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for internal structure. One goal of this project is to best describe the variation in the different types of customers that a wholesale distributor interacts with. Doing so would equip the distributor with insight into how to best structure their delivery service to meet the needs of each customer.
+
+_The project is written in Jupyter Notebook, under Python 2.7 and it uses a template provided by Udacity._
+
+[Link: Project3](http://htmlpreview.github.io/?https://github.com/SolanaO/mlen_udacity/blob/master/mlen.P3.Customer_Segments.html)
 
 ## Deep Learning: Dog Breed Recognition Project
 
