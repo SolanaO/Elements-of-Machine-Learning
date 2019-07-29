@@ -47,9 +47,13 @@ _This project is based on template code and guidance provided by Udacity. The wo
 
 ## Reinforcement Learning: Teach a Quadcopter to Fly
 
-Use deep reinforcement learning to design a simulated quadcopter that learns to take off, hover, and land, all by itself. Integrate these behaviors into a single end-to-end system, that can autonomously fly from point A to point B
+_Project 5_: Use deep reinforcement learning to design an agent that can fly a simulated quadcopter that learns to take off, hover, and land, all by itself. Integrate these behaviors into a single end-to-end system, that can autonomously fly from point A to point B.
 
-[Link: Project1](http://htmlpreview.github.io/?https://github.com/SolanaO/mlen_udacity/blob/master/mlen.P5.Flying_Quadrucopter.html)
+To accomplish this task I used the sample actor - critic model provided by Udacity based on the Deep Deterministic Policy Gradient algorithm. I also included an Ornstein–Uhlenbeck noise process and a buffer to store the experiences.
+
+The actor neuronal net has an input layer, followed by a three groups of hidden layers. In each group of hidden layers there is a Dense layer with L2 kernel regularizer, a Batch Normalization layer and a RELu activation layer. The Dense output layer has an Uniform kernel initializer and Sigmoid activation. The critic neronal net has actions and states input layers. There are two groups of hidden layers for the state pathway. The first group contains a Dense, a Batch Normalization layer and RELu activation layer, the second group has a Dense layer and a RELu activation layer. For the action pathway there are two Dense layers with L2 regularizers and RELu activations.
+
+[Link: Project5](http://htmlpreview.github.io/?https://github.com/SolanaO/mlen_udacity/blob/master/mlen.P5.Flying_Quadcopter.html)
 
 ## Capstone Project
 
