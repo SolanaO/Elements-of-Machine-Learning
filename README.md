@@ -18,6 +18,8 @@ _Project 2_: Build a classification model to identify the best potential donors 
 
 I employ three supervised algorithms (Support Vector Machines, K-Nearest Neighbors and Random Forest) to accurately model individuals' income using data collected from the 1994 U.S. Census, and available on [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php), in order to identify people most likely to donate to CharityML (a fictitious charity organization). From preliminary results, the best candidate algorithm is Random Forest. I further optimize this algorithm to best model the data.
 
+_The project is written in Jupyter Notebook, under Python 2.7 and uses NumPy and Pandas._
+
 [Link: Project2](http://htmlpreview.github.io/?https://github.com/SolanaO/mlen_udacity/blob/master/mlen.P2.Finding_Donors.html)
 
 ## Unsupervised Learning: Creating Customer Segments
@@ -52,6 +54,8 @@ _Project 5_: Use deep reinforcement learning to design an agent that can fly a s
 To accomplish this task I used the sample actor - critic model provided by Udacity based on the Deep Deterministic Policy Gradient algorithm. I also included an Ornstein–Uhlenbeck noise process and a buffer to store the experiences.
 
 The actor neuronal net has an input layer, followed by a three groups of hidden layers. In each group of hidden layers there is a Dense layer with L2 kernel regularizer, a Batch Normalization layer and a RELu activation layer. The Dense output layer has an Uniform kernel initializer and Sigmoid activation. The critic neronal net has actions and states input layers. There are two groups of hidden layers for the state pathway. The first group contains a Dense, a Batch Normalization layer and RELu activation layer, the second group has a Dense layer and a RELu activation layer. For the action pathway there are two Dense layers with L2 regularizers and RELu activations.
+
+_This project is based on a template Jupyter notebook and sample code provided by Udacity. The work is done in Python3, using NumPy, Pandas and Matplotlib, and also the machine learning library TensorFlow._
 
 [Link: Project5](http://htmlpreview.github.io/?https://github.com/SolanaO/mlen_udacity/blob/master/mlen.P5.Flying_Quadcopter.html)
 
