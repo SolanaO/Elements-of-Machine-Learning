@@ -61,9 +61,24 @@ _This project is based on a template Jupyter notebook and sample code provided b
 
 ## Capstone Project
 
-This is your turn to shine! In this project you'll be able to distinguish yourself by building a machine learning to solve a problem that you are passionate about, using any dataset of your choice. Our network of expert reviewers will guide you through your proposal phase, and will give you solid feedback on your model, your data, and your procedure.
+_Project 6_: Given a large set of text documents, perform sentiment analysis using deep learning techniques and supervised machine learning methods. The outcome should provide a binary classification of each document, with 0
+indicating a negative sentiment and 1 indicating a positive sentiment.
 
-[Link: Project1](http://htmlpreview.github.io/?https://github.com/SolanaO/mlen_udacity/blob/master/mlen.P1.bostonHousing.html)
+The data used in this project is from the Kaggle public dataset repository: Amazon Reviews: Unlocked Mobile Phones  [link](https://www.kaggle.com/PromptCloudHQ/amazon-reviews-unlocked-mobile-phones), it consists of more than 400,000 reviews from Amazon's unlocked mobile phone category, extracted by PromptCloud in December 2016. There are 6 features: Product Name, Brand Name, Price, Rating, Reviews, Review Votes.
+
+The main goal of my analysis is to automatically determine whether the review expresses an overall positive or negative opinion about the product. In order to achieve this goal, I employ Convolutional Neural Networks in
+conjunction with advanced text processing techniques such as Tf-Idf, word embedings and the SentimentAnalyzer module from NLTK. I use a Support Vector Machine (SVM) classifier as a benchmark model. 
+
+[Project proposal](https://github.com/SolanaO/mlen_udacity/blob/master/mlen.P6.Capstone_Proposal.pdf): In this preliminary work, I define the problem to be solved and I investigate potential solutions and performance metrics. 
+
+[Data preparation](http://htmlpreview.github.io/?https://github.com/SolanaO/mlen_udacity/blob/master/mlen.P6.Data_Preparation.html): I prepare and analyze the data through descriptive statistics and visualizations, to have a better understanding of what algorithms and features are appropriate for working with it. This includes basic text features extraction and analysis.
+
+[Data processing](http://htmlpreview.github.io/?https://github.com/SolanaO/mlen_udacity/blob/master/mlen.P6.Data_Processing.html): A preliminary evaluation of the cleaned data is obtained using the Vader sentiment analyzer in NLTK. The cleaned data is processed using a Tf-Idf word embedding and a Word2Vec embedding. I implement the benchmark model (SVM) and the convolutional neural network (CNN).
+
+[Project report](https://github.com/SolanaO/mlen_udacity/blob/master/mlen.P6.Capstone_Report.pdf): The report includes information on the performance of the models used, visualizations of the relevant features, and conclusions about the results.
+
+_The work is completed in a couple of Jupyter notebooks, using Python 3 and the following dependencies: Tensorflow, Pandas, Numpy, Matplotlib, Scikit-learnand Nltk._
+
 
 
 
