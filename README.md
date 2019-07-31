@@ -1,6 +1,6 @@
 # Machine Learning Nanodegree
 
-Projects required for the Machine Learning Engineer Nanodegree from Udacity. The program teaches you how to build machine learning models and apply them to data sets in fields like finance, healthcare, education, and more. This is a one term program spread over 6 months. 
+The program teaches you how to build machine learning models and apply them to data sets in fields like finance, healthcare, education, and more. This is a one term program spread over 6 months. 
 
 ## Model Evaluation and Validation: Predicting Boston Housing Prices
 
