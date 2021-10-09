@@ -59,7 +59,7 @@ _This project is based on a template Jupyter notebook and sample code provided b
 
 [Link: Project5](http://htmlpreview.github.io/?https://github.com/SolanaO/mlen_udacity/blob/master/mlen.P5.Flying_Quadcopter.html)
 
-## Capstone Project
+## NLP: Sentiment Analysis on Amazon Reviews
 
 _Project 6_: Given a large set of text documents, perform sentiment analysis using deep learning techniques and supervised machine learning methods. The outcome should provide a binary classification of each document, with 0
 indicating a negative sentiment and 1 indicating a positive sentiment.
