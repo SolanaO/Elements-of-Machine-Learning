@@ -45,7 +45,7 @@ Thirdly, I create a CNN that consists of several groups of convolutional layers,
 
 _This project is based on template code and guidance provided by Udacity. The work is done on a Jupyter notebook, using Python3._
 
-[Link: Project4](http://htmlpreview.github.io/?https://github.com/SolanaO/mlen_udacity/blob/master/mlen.P4.Dog_Breeds_Recognition.html)
+[Link: Project4](http://htmlpreview.github.io/?https://github.com/SolanaO/mlen_udacity/blob/master/mlen.P4.Dog_Breeds.html)
 
 ## Reinforcement Learning: Teach a Quadcopter to Fly
 
