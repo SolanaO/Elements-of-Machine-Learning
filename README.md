@@ -1,6 +1,6 @@
-# Machine Learning Nanodegree
+### Welcome!
 
-The program teaches you how to build machine learning models and apply them to data sets in fields like finance, healthcare, education, and more. This is a one term program spread over 6 months. 
+This program covers how to build machine learning models and apply them to data sets in fields like finance, healthcare, education, and more. This is a one term program spread over 6 months.  
 
 ## Model Evaluation and Validation: Predicting Boston Housing Prices
 
