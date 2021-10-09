@@ -10,7 +10,7 @@ I evaluate the performance and predictive power of a model that has been trained
 
 _The model uses a Decision Tree Algorithm. The work is done on a template Jupyter Notebook provided by Udacity. The code is written in Python 3 using NumPy and Pandas._
 
-[Link: Project1](http://htmlpreview.github.io/?https://github.com/SolanaO/mlen_udacity/blob/master/mlen.P1.Boston_Housing.html)
+[Link: Project1](http://htmlpreview.github.io/?https://github.com/SolanaO/Elements-of-Machine-Learning/blob/master/mlen.P1.Boston_Housing.html)
 
 ## Supervised Learning: Finding Donors for CharityML
 
@@ -32,7 +32,7 @@ First, I explore the data to determine if any product category highly correlates
 
 _The project is written in Jupyter Notebook, under Python 2.7 and it uses a template provided by Udacity._
 
-[Link: Project3](http://htmlpreview.github.io/?https://github.com/SolanaO/mlen_udacity/blob/master/mlen.P3.Customer_Segments.html)
+[Link: Project3](http://htmlpreview.github.io/?https://github.com/SolanaO/Elements-of-Machine-Learning/blob/master/mlen.P3.Customer_Segments.html)
 
 ## Deep Learning: Dog Breed Recognition Project
 
@@ -45,7 +45,7 @@ Thirdly, I create a CNN that consists of several groups of convolutional layers,
 
 _This project is based on template code and guidance provided by Udacity. The work is done on a Jupyter notebook, using Python3._
 
-[Link: Project4](http://htmlpreview.github.io/?https://github.com/SolanaO/mlen_udacity/blob/master/mlen.P4.Dog_Breeds.html)
+[Link: Project4](http://htmlpreview.github.io/?https://github.com/SolanaO/Elements-of-Machine-Learning/blob/master/mlen.P4.Dog_Breeds.html)
 
 ## Reinforcement Learning: Teach a Quadcopter to Fly
 
@@ -57,7 +57,7 @@ The actor neuronal net has an input layer, followed by a three groups of hidden 
 
 _This project is based on a template Jupyter notebook and sample code provided by Udacity. The work is done in Python3, using NumPy, Pandas and Matplotlib, and also the machine learning library TensorFlow._
 
-[Link: Project5](http://htmlpreview.github.io/?https://github.com/SolanaO/mlen_udacity/blob/master/mlen.P5.Flying_Quadcopter.html)
+[Link: Project5](http://htmlpreview.github.io/?https://github.com/SolanaO/Elements-of-Machine-Learning/blob/master/mlen.P5.Flying_Quadcopter.html)
 
 ## NLP: Sentiment Analysis on Amazon Reviews
 
@@ -69,13 +69,13 @@ The data used in this project is from the Kaggle public dataset repository: Amaz
 The main goal of my analysis is to automatically determine whether the review expresses an overall positive or negative opinion about the product. In order to achieve this goal, I employ Convolutional Neural Networks in
 conjunction with advanced text processing techniques such as Tf-Idf, word embedings and the SentimentAnalyzer module from NLTK. I use a Support Vector Machine (SVM) classifier as a benchmark model. 
 
-[Project proposal](https://github.com/SolanaO/mlen_udacity/blob/master/mlen.P6.Capstone_Proposal.pdf): In this preliminary work, I define the problem to be solved and I investigate potential solutions and performance metrics. 
+[Project proposal](https://github.com/SolanaO/Elements-of-Machine-Learning/blob/master/mlen.P6.Capstone_Proposal.pdf): In this preliminary work, I define the problem to be solved and I investigate potential solutions and performance metrics. 
 
-[Data preparation](http://htmlpreview.github.io/?https://github.com/SolanaO/mlen_udacity/blob/master/mlen.P6.Data_Preparation.html): I prepare and analyze the data through descriptive statistics and visualizations, to have a better understanding of what algorithms and features are appropriate for working with it. This includes basic text features extraction and analysis.
+[Data preparation](http://htmlpreview.github.io/?https://github.com/SolanaO/Elements-of-Machine-Learning/blob/master/mlen.P6.Data_Preparation.html): I prepare and analyze the data through descriptive statistics and visualizations, to have a better understanding of what algorithms and features are appropriate for working with it. This includes basic text features extraction and analysis.
 
-[Data processing](http://htmlpreview.github.io/?https://github.com/SolanaO/mlen_udacity/blob/master/mlen.P6.Data_Processing.html): A preliminary evaluation of the cleaned data is obtained using the Vader sentiment analyzer in NLTK. The cleaned data is processed using a Tf-Idf word embedding and a Word2Vec embedding. I implement the benchmark model (SVM) and the convolutional neural network (CNN).
+[Data processing](http://htmlpreview.github.io/?https://github.com/SolanaO/Elements-of-Machine-Learning/blob/master/mlen.P6.Data_Processing.html): A preliminary evaluation of the cleaned data is obtained using the Vader sentiment analyzer in NLTK. The cleaned data is processed using a Tf-Idf word embedding and a Word2Vec embedding. I implement the benchmark model (SVM) and the convolutional neural network (CNN).
 
-[Project report](https://github.com/SolanaO/mlen_udacity/blob/master/mlen.P6.Capstone_Report.pdf): The report includes information on the performance of the models used, visualizations of the relevant features, and conclusions about the results.
+[Project report](https://github.com/SolanaO/Elements-of-Machine-Learning/blob/master/mlen.P6.Capstone_Report.pdf): The report includes information on the performance of the models used, visualizations of the relevant features, and conclusions about the results.
 
 _The work is completed in a couple of Jupyter notebooks, using Python 3 and the following dependencies: Tensorflow, Pandas, Numpy, Matplotlib, Scikit-learnand Nltk._
 
