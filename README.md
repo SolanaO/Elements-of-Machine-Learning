@@ -20,7 +20,7 @@ I employ three supervised algorithms (Support Vector Machines, K-Nearest Neighbo
 
 _The project is written in Jupyter Notebook, under Python 2.7 and uses NumPy and Pandas._
 
-[Link: Project2](http://htmlpreview.github.io/?https://github.com/SolanaO/mlen_udacity/blob/master/mlen.P2.Finding_Donors.html)
+[Link: Project2](http://htmlpreview.github.io/?https://github.com/SolanaO/Elements-of-Machine-Learning/blob/master/mlen.P2.Finding_Donors.html)
 
 ## Unsupervised Learning: Creating Customer Segments
 
