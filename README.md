@@ -4,6 +4,8 @@ This program covers how to build machine learning models and apply them to data 
 
 ## Model Evaluation and Validation: Predicting Boston Housing Prices
 
+<img src='images/p1_image.png' width="400" height="200">
+
 _Project 1_: Use Scikit-Learn and regression to analyze a real dataset of housing prices in Boston. Build and optimize a model to predict the price of houses, based on their features.
 
 I evaluate the performance and predictive power of a model that has been trained and tested on data collected from homes in suburbs of Boston, Massachusetts and available on [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php). A model trained on this data that is seen as a good fit could then be used to make certain predictions about the monetary value of a home. 
@@ -14,6 +16,8 @@ _The model uses a Decision Tree Algorithm. The work is done on a template Jupyte
 
 ## Supervised Learning: Finding Donors for CharityML
 
+<img src='images/p2_image.png' width="400" height="200">
+
 _Project 2_: Build a classification model to identify the best potential donors for a charity. Use several classification algorithms and optimize them for quality.
 
 I employ three supervised algorithms (Support Vector Machines, K-Nearest Neighbors and Random Forest) to accurately model individuals' income using data collected from the 1994 U.S. Census, and available on [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php), in order to identify people most likely to donate to CharityML (a fictitious charity organization). From preliminary results, the best candidate algorithm is Random Forest. I further optimize this algorithm to best model the data.
@@ -23,6 +27,8 @@ _The project is written in Jupyter Notebook, under Python 2.7 and uses NumPy and
 [Link: Project2](http://htmlpreview.github.io/?https://github.com/SolanaO/Elements-of-Machine-Learning/blob/master/mlen.P2.Finding_Donors.html)
 
 ## Unsupervised Learning: Creating Customer Segments
+
+<img src='images/p3_image.png' width="400" height="200">
 
 _Project 3_: Study a real dataset of customers for a company, apply several unsupervised learning techniques in order to extract valuable information from this data.
 
@@ -35,6 +41,8 @@ _The project is written in Jupyter Notebook, under Python 2.7 and it uses a temp
 [Link: Project3](http://htmlpreview.github.io/?https://github.com/SolanaO/Elements-of-Machine-Learning/blob/master/mlen.P3.Customer_Segments.html)
 
 ## Deep Learning: Dog Breed Recognition Project
+
+<img src='images/p4_image.png' width="400" height="200">
 
 _Project 4_: Use Keras to build a convolutional neural network to recognize dog breeds from images. Furthermore, if an image of a human is provided, the algorithm will guess which breed of dog looks the most like that human. Improve the results by using pre-trained networks.
 
@@ -49,6 +57,8 @@ _This project is based on template code and guidance provided by Udacity. The wo
 
 ## Reinforcement Learning: Teach a Quadcopter to Fly
 
+<img src='images/p5_image.png' width="400" height="200">
+
 _Project 5_: Use deep reinforcement learning to design an agent that can fly a simulated quadcopter that learns to take off, hover, and land, all by itself. Integrate these behaviors into a single end-to-end system, that can autonomously fly from point A to point B.
 
 To accomplish this task I used the sample actor - critic model provided by Udacity based on the Deep Deterministic Policy Gradient algorithm. I also included an Ornstein–Uhlenbeck noise process and a buffer to store the experiences.
@@ -60,6 +70,8 @@ _This project is based on a template Jupyter notebook and sample code provided b
 [Link: Project5](http://htmlpreview.github.io/?https://github.com/SolanaO/Elements-of-Machine-Learning/blob/master/mlen.P5.Flying_Quadcopter.html)
 
 ## NLP: Sentiment Analysis on Amazon Reviews
+
+<img src='images/p6_image.png' width="400" height="200">
 
 _Project 6_: Given a large set of text documents, perform sentiment analysis using deep learning techniques and supervised machine learning methods. The outcome should provide a binary classification of each document, with 0
 indicating a negative sentiment and 1 indicating a positive sentiment.
