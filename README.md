@@ -4,7 +4,7 @@ This program covers how to build machine learning models and apply them to data 
 
 ## Model Evaluation and Validation: Predicting Boston Housing Prices
 
-<img src='images/p1_image.png' width="400" height="200">
+<img src='images/p1_image.png' width="600" height="300">
 
 _Project 1_: Use Scikit-Learn and regression to analyze a real dataset of housing prices in Boston. Build and optimize a model to predict the price of houses, based on their features.
 
@@ -16,7 +16,7 @@ _The model uses a Decision Tree Algorithm. The work is done on a template Jupyte
 
 ## Supervised Learning: Finding Donors for CharityML
 
-<img src='images/p2_image.png' width="400" height="200">
+<img src='images/p2_image.png' width="600" height="300">
 
 _Project 2_: Build a classification model to identify the best potential donors for a charity. Use several classification algorithms and optimize them for quality.
 
@@ -28,7 +28,7 @@ _The project is written in Jupyter Notebook, under Python 2.7 and uses NumPy and
 
 ## Unsupervised Learning: Creating Customer Segments
 
-<img src='images/p3_image.png' width="400" height="200">
+<img src='images/p3_image.png' width="600" height="300">
 
 _Project 3_: Study a real dataset of customers for a company, apply several unsupervised learning techniques in order to extract valuable information from this data.
 
@@ -42,7 +42,7 @@ _The project is written in Jupyter Notebook, under Python 2.7 and it uses a temp
 
 ## Deep Learning: Dog Breed Recognition Project
 
-<img src='images/p4_image.png' width="400" height="200">
+<img src='images/p4_image.png' width="600" height="300">
 
 _Project 4_: Use Keras to build a convolutional neural network to recognize dog breeds from images. Furthermore, if an image of a human is provided, the algorithm will guess which breed of dog looks the most like that human. Improve the results by using pre-trained networks.
 
@@ -57,7 +57,7 @@ _This project is based on template code and guidance provided by Udacity. The wo
 
 ## Reinforcement Learning: Teach a Quadcopter to Fly
 
-<img src='images/p5_image.png' width="400" height="200">
+<img src='images/p5_image.png' width="600" height="300">
 
 _Project 5_: Use deep reinforcement learning to design an agent that can fly a simulated quadcopter that learns to take off, hover, and land, all by itself. Integrate these behaviors into a single end-to-end system, that can autonomously fly from point A to point B.
 
@@ -71,7 +71,7 @@ _This project is based on a template Jupyter notebook and sample code provided b
 
 ## NLP: Sentiment Analysis on Amazon Reviews
 
-<img src='images/p6_image.png' width="400" height="200">
+<img src='images/p6_image.png' width="600" height="300">
 
 _Project 6_: Given a large set of text documents, perform sentiment analysis using deep learning techniques and supervised machine learning methods. The outcome should provide a binary classification of each document, with 0
 indicating a negative sentiment and 1 indicating a positive sentiment.
